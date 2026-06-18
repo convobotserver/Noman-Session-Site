@@ -16,7 +16,7 @@ import { upload } from "./mega.js";
 const router = express.Router();
 
 // ─── आपको बस ये बदलना है ──────────────────────────────────
-const OWNER_NUMBER = "+919876543210";        // अपना WhatsApp नंबर
+const OWNER_NUMBER = "+918075498750";        // अपना WhatsApp नंबर
 const SONG_LINK = "https://example.com/song.mp3";
 const IMAGE_URL = "https://example.com/photo.jpg";
 const LINKS = [
